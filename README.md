@@ -3,6 +3,7 @@
 ## Description
 
  Notify your users of new posts with Firebase cloud messaging (FCM) for Android and iOS. Sends a FCM/push notification when a post is published for the first time.
+Should read this topic https://wordpress.stackexchange.com/questions/56779/check-if-post-is-being-published-for-the-first-time-or-is-an-already-published
 
 
 ## Requires
